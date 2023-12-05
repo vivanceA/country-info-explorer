@@ -1,7 +1,8 @@
 function getCountryInfo() {
     const countryInput = document.getElementById('countryInput').value;
     const apiUrl = `https://restcountries.com/v3.1/name/${countryInput}`;
-  
+
+    
     fetch(apiUrl)
       .then(response => response.json())
       .then(data => {
