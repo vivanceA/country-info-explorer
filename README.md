@@ -14,6 +14,9 @@ CountryInfoExplorer is a web application that allows users to explore detailed i
 2. Click the "Get Info" button.
 3. Explore detailed information about the country.
 
+## Live Demo
+[Country Info Explorer Demo](https://vivancea.github.io/country-info-explorer/)
+
 ## Technologies Used
 
 - HTML
