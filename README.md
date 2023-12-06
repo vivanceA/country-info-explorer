@@ -38,7 +38,7 @@ CountryInfoExplorer is a web application that allows users to explore detailed i
 
 ## Video
 
-[App Video]()
+[App Video](https://www.loom.com/share/ed25d66c6fd740218f7f81c51d6f3b21?sid=6a20cea5-2d2e-4b00-b048-234539d67942)
 
 ## Acknowledgments
 
