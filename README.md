@@ -47,7 +47,3 @@ CountryInfoExplorer is a web application that allows users to explore detailed i
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README further based on additional features, acknowledgments, or any specific instructions you want to provide.
